@@ -2,7 +2,7 @@
   {
     "namespace": "wiredupdev",
     "repository": "nginx-1.29.4-alpine",
-    "path": "nginx-alpine-1.29.4",
+    "path": "nginx-1.29.4-alpine",
     "tag": "2026.1.1",
     "stages": ["php-fpm"],
     "build": true,
