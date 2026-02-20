@@ -14,7 +14,7 @@
     "path": "nginx-1.28.0-amazon-linux",
     "tag": "2026.1.1",
     "stages": ["php-fpm"],
-    "build": true,
-    "push": true
+    "build": false,
+    "push": false
   }
 ]

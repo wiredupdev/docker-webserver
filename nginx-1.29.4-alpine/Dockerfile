@@ -17,5 +17,3 @@ ENV BACKEND_HOST=backend
 ENV BACKEND_PORT=9000
 
 COPY etc/default.conf.template /etc/nginx/templates/default.conf.template
-
-USER www-data
